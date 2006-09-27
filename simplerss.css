@@ -1,0 +1,141 @@
+/*
+ *
+ */
+
+/* General */
+
+body {
+    margin: 5px 5px 5px 5px;
+    background: #ffffff;
+    padding: 2px;
+}
+
+img {
+    border: 0px;
+}
+
+.box {
+    border: solid 1px #dddddd;
+    clear: both;
+    padding: 2px;
+}
+
+.tmp {
+    width: 100%;
+    clear: both;
+}
+
+a,
+a:link {
+    color: #0033BB;
+    text-decoration: none; 
+}
+
+a:visited {
+    color: #0033BB;
+    text-decoration: none; 
+}
+
+.header {
+    width: 100%;
+    clear: both;
+}
+
+.title1 {
+    font-family: verdana, arial, sans-serif;
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #aaaaaa;
+    float: left;
+}
+
+.title2 {
+    font-family: verdana, arial, sans-serif;
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #000000;
+    float: left;
+}
+
+.headerLinks {
+    font-size: 0.65em;
+    float: left;
+    padding-left: 2.5em;
+}
+
+.addfeedForm {
+    float: right;
+}
+
+hr {
+    width: 100%;
+    clear: both;
+}
+
+.blog {
+    float: left;
+}
+
+.blog a:visited,
+.blog a:active {
+    color: #555555;
+}
+
+.blog p {
+    margin-top: 1em;
+    margin-bottom: 0px;
+}
+
+.blog ul {
+    margin-top: 0.1em;
+    margin-bottom: 0.5em;
+}
+
+.errors {
+    font-size: 0.8em;
+    clear: both;
+}
+
+.errors p {
+    margin-top: 1em;
+    margin-bottom: 0px;
+}
+
+.errors ul {
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.manage {
+    font-size: 0.65em;
+}
+
+.manage a, 
+.manage a:link, 
+.manage a:visited {
+    color: #0033BB;
+    text-decoration: none; 
+}
+
+.blogTitle {
+    font-weight: bold;
+}
+
+.blogTitle a, 
+.blogTitle a:link, 
+.blogTitle a:visited {
+    color: #003388;
+    text-decoration: none; 
+}
+
+.cacheAge10 {
+    color: #10A500;
+}
+
+.cacheAge90 {
+    color: #a09900;
+}
+
+.cacheAge100 {
+    color: #9b0000;
+}
