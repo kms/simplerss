@@ -1,14 +1,9 @@
 <?php
-/*
- * SimpleRSS (http://skontorp.net/simplerss/)
- *
- * Copyright (c) Karl-Martin Skontorp <kms@skontorp.net>
- *
- * This program comes with ABSOLUTELY NO WARRANTY.
- * This is free software, and you are welcome to redistribute it
- * under the GPL.
- *
- */
+# simplerss
+# Simple RSS viewer.
+#
+# (c) Karl-Martin Skontorp <kms@skontorp.net> ~ http://picofarad.org/
+# Licensed under the GNU GPL 2.0 or later.
 
 include("xmlParser-0.3.php");
 include("feedParser-0.5.php");

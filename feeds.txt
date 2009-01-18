@@ -1,2 +1,1 @@
-http://insultconsult.com/rss10.xml
-http://www.geeksoc.org/~noodles/index.rdf
+http://www.example.com/

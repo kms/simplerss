@@ -1,4 +1,9 @@
 <?php
+# simplerss
+# Simple RSS viewer.
+#
+# (c) Karl-Martin Skontorp <kms@skontorp.net> ~ http://picofarad.org/
+# Licensed under the GNU GPL 2.0 or later.
 
 function printHeader() {
     global $edit;
