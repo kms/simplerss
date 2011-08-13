@@ -2,7 +2,7 @@
 # simplerss
 # Simple RSS viewer.
 #
-# (c) Karl-Martin Skontorp <kms@skontorp.net> ~ http://picofarad.org/
+# (c) Karl-Martin Skontorp <kms@skontorp.net> ~ http://22pf.org/
 # Licensed under the GNU GPL 2.0 or later.
 
 function printHeader() {
